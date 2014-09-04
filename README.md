@@ -5,7 +5,7 @@ This repo serves as the homepage for CSC301H5F, and will contain general informa
  * Instructor: Joey Freund, joey [at] cs.toronto.edu
  * TA: Saad Ilyas, silyas [at] uwaterloo.ca
  * Lectures: Friday 10-12, IB345
- * Tutorials
+ * Tutorials (no tutorial on the first week)
    * Wednesday 9-10, IB360
    * Wednesday 10-11, IB360
 
