@@ -1,12 +1,44 @@
-# Welcome to CSC301H5F #
+# CSC301 - Introduction To Software Engineering #
 
-This repo serves as the homepage for CSC301H5F, and will contain general information and important announcements. Please make sure to visit this page regularly.
+This repo serves as the homepage for CSC301H5F (i.e. The UTM section).
+This page will contain general information and important announcements, please make sure to visit it regularly.
 
- * Instructor: Joey Freund, joey [at] cs.toronto.edu
- * TA: Saad Ilyas, silyas [at] uwaterloo.ca
+## General Info ##
+
+ 
+ * Instructor: Joey Freund, joey@cs.toronto.edu
+ * TA: Saad Ilyas, silyas@uwaterloo.ca
  * Lectures: Friday 10-12, IB345
- * Tutorials (no tutorial on the first week)
+ * Tutorials
    * Wednesday 9-10, IB360
    * Wednesday 10-11, IB360
+   * No tutorials on the first week
+ * [Discussion Board](http://piazza.com/utoronto.ca/fall2014/csc301/) (shared with two sections of CSC301 at St. George)
+
+
+## Marking Scheme ##
+
+What | When | How Much
+--- | --- | ---
+Mini-exercise  | Fri, 19 Sep | 1%
+Exercise       | Mon, 29 Sep | 9%
+Project Phase1 | Fri, 10 Oct | 8% 
+Midterm        | Fri, 24 Oct | 10%
+Project Phase2 | Fri, 31 Oct | 12%
+Project Phase3 | Fri, 14 Nov | 10% 
+Project Phase4 | Fri, 28 Nov | 15% 
+Final Exam     | TBD         | 35%
+
+*Note:* You must get at least 40% on the final exam in order to pass the course.
+
+
+## Lecture Slides ##
+
+ * Week 1
+   * [Introduction](https://docs.google.com/presentation/d/1GxXrhDkeFBAO_SOWqgMIeQfpNeZdMHIll6R3PJkvBP4/edit?usp=sharing)
+   * [Version Control](https://docs.google.com/presentation/d/1TILN1mCvZSlhN_ZSDYvpyCLIB9exEj_8VNRlxaBo8Lk/edit?usp=sharing)
+   * [Stack Exchange Architecture](https://www.youtube.com/watch?v=rkVvxgdY9F8) - An interesting video, providing insight into the software development process of Stack Exchange. Around 19:30 minutes into the video, Marco (the speaker) talks about their testing strategy, which I find really interesting.
+
+
 
 
