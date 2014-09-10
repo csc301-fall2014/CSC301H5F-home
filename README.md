@@ -3,6 +3,12 @@
 This repo serves as the homepage for CSC301H5F (i.e. The UTM section).
 This page will contain general information and important announcements, please make sure to visit it regularly.
 
+## IMPORTANT: Prerequisite Waiver Requests ##
+
+ * The prerequisites for this course are CSC209H5 and CSC290H5.
+ * If you are missing a prerequisite, you will need to submit [the following form](http://www.utm.utoronto.ca/math-cs-stats/sites/files/math-cs-stats/public/users/yeyvette/PrereqCoreqForm-20129.pdf).
+ * Please fill the form, print it, and bring it with you to the first lecture.
+
 ## General Info ##
 
  
