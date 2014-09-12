@@ -12,7 +12,10 @@ This page will contain general information and important announcements, please m
 ## General Info ##
 
  
- * Instructor: Joey Freund, joey@cs.toronto.edu
+ * Instructor: Joey Freund
+   * joey@cs.toronto.edu
+   * Office: DH-3097C
+   * Office hours: TBD
  * TA: Saad Ilyas, silyas@uwaterloo.ca
  * Lectures: Friday 10-12, IB345
  * Tutorials
