@@ -20,13 +20,14 @@ This page will contain general information and important announcements, please m
    * Wednesday 10-11, IB360
    * No tutorials on the first week
  * [Discussion Board](http://piazza.com/utoronto.ca/fall2014/csc301/) (shared with two sections of CSC301 at St. George)
+ * [Official course info sheet](InfoSheet.pdf)
 
 
 ## Marking Scheme ##
 
 What | When | How Much
 --- | --- | ---
-Mini-exercise  | Fri, 19 Sep | 1%
+[Mini-exercise](https://github.com/csc301-fall2014/mini-exercise/tree/utm-section)  | Fri, 19 Sep | 1%
 Exercise       | Mon, 29 Sep | 9%
 Project Phase1 | Fri, 10 Oct | 8% 
 Midterm        | Fri, 24 Oct | 10%
