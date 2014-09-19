@@ -31,7 +31,7 @@ This page will contain general information and important announcements, please m
 What | When | How Much
 --- | --- | ---
 [Mini-exercise](https://github.com/csc301-fall2014/mini-exercise/tree/utm-section)  | Fri, 19 Sep | 1%
-Exercise       | Mon, 29 Sep | 9%
+[Exercise](exercise1.md)       | **Register by Sun, 21 Sep, at 7 pm | 9%
 Project Phase1 | Fri, 10 Oct | 8% 
 Midterm        | Fri, 24 Oct | 10%
 Project Phase2 | Fri, 31 Oct | 12%
@@ -48,7 +48,13 @@ Final Exam     | TBD         | 35%
    * [Introduction](https://docs.google.com/presentation/d/1GxXrhDkeFBAO_SOWqgMIeQfpNeZdMHIll6R3PJkvBP4/edit?usp=sharing)
    * [Version Control](https://docs.google.com/presentation/d/1TILN1mCvZSlhN_ZSDYvpyCLIB9exEj_8VNRlxaBo8Lk/edit?usp=sharing)
    * [Stack Exchange Architecture](https://www.youtube.com/watch?v=rkVvxgdY9F8) - An interesting video, providing insight into the software development process of Stack Exchange. Around 19:30 minutes into the video, Marco (the speaker) talks about their testing strategy, which I find really interesting.
-
+ * Week 2
+   * [Tutorial on Git & GitHub](https://github.com/csc301-fall2014/Tutorial1)
+   * A few additional resources for learning Git:
+     * [Learn Git in 15 mins] (https://try.github.io/levels/1/challenges/1)
+     * [An interactive Git Cheatsheet] (http://ndpsoftware.com/git-cheatsheet.html)
+     * [Learn Git Branching] (http://pcottle.github.io/learnGitBranching/)
+   * [Software Development Life Cycle](https://docs.google.com/presentation/d/1cSps1xrdWnRCSvuDq5_3CST5HEc0k_nz4NkSsszThTs/edit?usp=sharing)
 
 
 
