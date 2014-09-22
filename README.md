@@ -3,11 +3,10 @@
 This repo serves as the homepage for CSC301H5F (i.e. The UTM section).
 This page will contain general information and important announcements, please make sure to visit it regularly.
 
-## IMPORTANT: Prerequisite Waiver Requests ##
+## IMPORTANT: Personal Repositories
 
- * The prerequisites for this course are CSC209H5 and CSC290H5.
- * If you are missing a prerequisite, you will need to submit [the following form](http://www.utm.utoronto.ca/math-cs-stats/sites/files/math-cs-stats/public/users/yeyvette/PrereqCoreqForm-20129.pdf).
- * Please fill the form, print it, and bring it with you to the first lecture.
+If you did not register your GitHub username during the mini-exercise (and therefore, you do not have a personal repo), please [fill in your UTorID and GitHub username in this shared doc](https://docs.google.com/spreadsheets/d/1NiFBZl3zRyH_h7TBcOjaM8CadKIDN5Y7Qvp3XFC7t6U/edit?usp=sharing) as soon as possible.
+
 
 ## General Info ##
 
@@ -24,6 +23,10 @@ This page will contain general information and important announcements, please m
    * No tutorials on the first week
  * [Discussion Board](http://piazza.com/utoronto.ca/fall2014/csc301/) (shared with two sections of CSC301 at St. George)
  * [Official course info sheet](InfoSheet.pdf)
+ * Prerequisite Waiver Requests
+   * The prerequisites for this course are CSC209H5 and CSC290H5.
+   * If you are missing a prerequisite, you will need to submit [the following form](http://www.utm.utoronto.ca/math-cs-stats/sites/files/math-cs-stats/public/users/yeyvette/PrereqCoreqForm-20129.pdf).
+   * Please fill the form, print it, and bring it with you to the first lecture.
 
 
 ## Marking Scheme ##
