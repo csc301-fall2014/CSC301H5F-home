@@ -34,7 +34,7 @@ If you did not register your GitHub username during the mini-exercise (and there
 What | When | How Much
 --- | --- | ---
 [Mini-exercise](https://github.com/csc301-fall2014/mini-exercise/tree/utm-section)  | Fri, 19 Sep | 1%
-[Exercise](exercise1.md)       | ~~Wed, 1 Oct,~~ ** Fri, Oct 3,** at 10 pm | 9%
+[Exercise](exercise1.md)       | ~~Wed, 1 Oct,~~ __Fri, Oct 3,__ at 10 pm | 9%
 Project Phase1 | Fri, 10 Oct | 8% 
 Midterm        | Fri, 24 Oct | 10%
 Project Phase2 | Fri, 31 Oct | 12%
