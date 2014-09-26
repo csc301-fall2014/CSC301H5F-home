@@ -58,6 +58,7 @@ Final Exam     | TBD         | 35%
      * [An interactive Git Cheatsheet] (http://ndpsoftware.com/git-cheatsheet.html)
      * [Learn Git Branching] (http://pcottle.github.io/learnGitBranching/)
    * [Software Development Life Cycle](https://docs.google.com/presentation/d/1cSps1xrdWnRCSvuDq5_3CST5HEc0k_nz4NkSsszThTs/edit?usp=sharing)
-
+ * Week 3
+   * [User-Centric Design](https://docs.google.com/presentation/d/17jIrffuu78dUq_fd4ukuH9L3xPvWo3TN2b28jYHhILA/edit?usp=sharing)
 
 
