@@ -38,18 +38,35 @@
 
 We will only focus on Charlotte
 
- * I want to access the portal on my mobile, so I can use it on the go.
- * I want to view announcement in one central place, so that it's easy to manage, and I don't miss out on any important info.
- * I want to access my class list.
- * I want the different function (e.g. class list vs portal announcements) to in separate "areas" of the portal, because it makes it easier to manage.
- * I want a global search, so that I can find any relevant information easily.
- * I want **all** of my courses available, so I don't have to keep track of too many bookmarks.
- * I want to receive all important announcements from all of my courses in one place in the portal, so that I don't miss out on anything.
- * I want a flexible notification system (email, SMS, push notification), so that I don't miss anything.
- * I want a calendar with all of my due dates, it makes things easier to manage.
+ * 2 I want to access the portal on my mobile, so I can use it on the go.
+ * 1 I want to view announcement in one central place, so that it's easy to manage, and I don't miss out on any important info.
+ * ~~I want to access my course list.~~
+ * 3 I want the different functions (e.g. course list vs portal announcements) to be in separate "areas" of the portal, because it makes it easier to manage.
+ * NOT SURE I want a global search, so that I can find any relevant information easily.
+ * 1 I want **all** of my courses available, so I don't have to keep track of too many bookmarks.
+ * 2 I want to receive all important announcements from all of my courses in one place in the portal, so that I don't miss out on anything.
+ * 3 I want a flexible notification system (email, SMS, push notification), so that I don't miss anything.
+ * 1 I want a calendar with all of my lecture, tutorials, and due dates, it makes things easier to manage.
  
 Seems like the most important feature to students is the ability to organize their time.
 
 ## Our MVP
 
 A student time organizer.
+
+
+## Architecture
+
+Next week ...
+
+
+## Release Plan
+
+In 12 weeks, we'll bring in some students to try it out in the lab.
+
+ * Fake login page
+ * List all lecture times, tutorials time, and due dates.
+ * As Charlotte, I want to add my own items to the list (non school related).
+ * As Charlotte, I want to edit/delete school-related items, in case that they are not in-sync.
+
+
