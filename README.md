@@ -3,7 +3,10 @@
 This repo serves as the homepage for CSC301H5F (i.e. The UTM section).
 This page will contain general information and important announcements, please make sure to visit it regularly.
 
+## Important Announcement
 
+All missing personal reps have been created, you should be able to see your personal repo at https://github.com/csc301-fall2014.    
+If you haven't registered for a personal repo by now, you will not be able to complete the individual part of exercise 1.
 
 ## General Info ##
 
