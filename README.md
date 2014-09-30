@@ -3,9 +3,6 @@
 This repo serves as the homepage for CSC301H5F (i.e. The UTM section).
 This page will contain general information and important announcements, please make sure to visit it regularly.
 
-## IMPORTANT: Personal Repositories
-
-If you did not register your GitHub username during the mini-exercise (and therefore, you do not have a personal repo), please [fill in your UTorID and GitHub username in this shared doc](https://docs.google.com/spreadsheets/d/1NiFBZl3zRyH_h7TBcOjaM8CadKIDN5Y7Qvp3XFC7t6U/edit?usp=sharing) as soon as possible.
 
 
 ## General Info ##
