@@ -5,7 +5,7 @@ This page will contain general information and important announcements, please m
 
 ## Important Announcement
 
-All missing personal reps have been created, you should be able to see your personal repo at https://github.com/csc301-fall2014.    
+All missing __personal repositories have been created__, you should be able to see your personal repo at https://github.com/csc301-fall2014.    
 If you haven't registered for a personal repo by now, you will not be able to complete the individual part of exercise 1.
 
 ## General Info ##
