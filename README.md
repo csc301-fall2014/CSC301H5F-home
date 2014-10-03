@@ -7,6 +7,8 @@ This page will contain general information and important announcements, please m
 
 Please register for a team for the project by adding your __GitHub username__ in this [shared doc](https://docs.google.com/spreadsheets/d/1pTkNDJN3jULvYsYP1NJbBqFgWp9oIJLT3H1eUe6KCU0/edit?usp=sharing).
 
+In the meantime, you can see the different [project options](ProjectOptions.md).
+
 
 ## General Info ##
 
