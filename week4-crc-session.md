@@ -3,7 +3,7 @@
 
  * Train
    * R
-     * Has na identifier.
+     * Has an identifier.
      * Knows its carts.
      * Knows its physical location (I owe you an argument for this shouldn't be the responsibility of this class)
    * C
@@ -67,6 +67,7 @@ As a train company manager, I want to offer different prices for different carts
    * PriceCalculator, Interface
      * R
        * Copmute the price of an avialable seat
+       * Knows the direct route it's associated with.
      * C
        * DirectRoute
        * Train
