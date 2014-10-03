@@ -5,7 +5,13 @@ This page will contain general information and important announcements, please m
 
 ## Important Announcement
 
-Please register for a team for the project by adding your __GitHub username__ in this [shared doc](https://docs.google.com/spreadsheets/d/1pTkNDJN3jULvYsYP1NJbBqFgWp9oIJLT3H1eUe6KCU0/edit?usp=sharing).
+Please register for a team for the project by adding your __GitHub username__ in this [shared doc](https://docs.google.com/spreadsheets/d/1pTkNDJN3jULvYsYP1NJbBqFgWp9oIJLT3H1eUe6KCU0/edit?usp=sharing) __by 10 pm tonight (Friday, Oct 3)__.
+
+The first phase of the project is short, and will involve planning your project as a team (no coding). Therefore, we will not accept late registration.
+ * If you don't register for a team on time, you will get a 0 for this phase.
+ * If you register with anything other than your GitHub username, you will get a 0 for this phase.
+ * If you register with the wrong GitHub username, you will get a 0 for this phase.
+
 
 In the meantime, you can see the different [project options](ProjectOptions.md).
 
