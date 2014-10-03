@@ -66,9 +66,9 @@ As a train company manager, I want to offer different prices for different carts
  * We're a little stuck, but we can make things better by defining the following interface
    * PriceCalculator, Interface
      * R
-       * Copmute the price of an avialable seat
-       * Knows the direct route it's associated with.
+        * Copmute the price of an avialable seat
+        * Knows the direct route it's associated with.
      * C
-       * DirectRoute
-       * Train
-       * Cart
+        * DirectRoute
+        * Train
+        * Cart
