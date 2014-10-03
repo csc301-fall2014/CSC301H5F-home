@@ -1,12 +1,6 @@
 # CRC Cards
 
 
-* Has a route
-* Number of passangers
-* Schedule of all arrivals/departures
-
-
-
  * Train
    * R
      * Has na identifier.
