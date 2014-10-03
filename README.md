@@ -5,8 +5,8 @@ This page will contain general information and important announcements, please m
 
 ## Important Announcement
 
-All missing __personal repositories have been created__, you should be able to see your personal repo at https://github.com/csc301-fall2014.    
-If you haven't registered for a personal repo by now, you will not be able to complete the individual part of exercise 1.
+Please register for a team for the project by adding your __GitHub username__ in this [shared doc](https://docs.google.com/spreadsheets/d/1pTkNDJN3jULvYsYP1NJbBqFgWp9oIJLT3H1eUe6KCU0/edit?usp=sharing).
+
 
 ## General Info ##
 
@@ -60,5 +60,7 @@ Final Exam     | TBD         | 35%
    * [Software Development Life Cycle](https://docs.google.com/presentation/d/1cSps1xrdWnRCSvuDq5_3CST5HEc0k_nz4NkSsszThTs/edit?usp=sharing)
  * Week 3
    * [User-Centric Design](https://docs.google.com/presentation/d/17jIrffuu78dUq_fd4ukuH9L3xPvWo3TN2b28jYHhILA/edit?usp=sharing)
-
+ * Week 4
+   * [Software Architecture & Design](https://docs.google.com/presentation/d/1djBbiUoo_68UH-mdd2EeJbXqAS5A5_3_G1WxnO6aAp8/edit?usp=sharing)
+   * [DAO Example](https://github.com/csc301-fall2014/DAOExample)
 
