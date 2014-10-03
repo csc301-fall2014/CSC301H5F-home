@@ -71,4 +71,5 @@ Final Exam     | TBD         | 35%
  * Week 4
    * [Software Architecture & Design](https://docs.google.com/presentation/d/1djBbiUoo_68UH-mdd2EeJbXqAS5A5_3_G1WxnO6aAp8/edit?usp=sharing)
    * [DAO Example](https://github.com/csc301-fall2014/DAOExample)
+   * [CRC design session](week4-crc-session.md)
 
