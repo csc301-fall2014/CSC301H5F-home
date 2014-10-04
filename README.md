@@ -3,17 +3,16 @@
 This repo serves as the homepage for CSC301H5F (i.e. The UTM section).
 This page will contain general information and important announcements, please make sure to visit it regularly.
 
-## Important Announcement
+## Important Announcements
 
-Please register for a team for the project by adding your __GitHub username__ in this ~~[shared doc](https://docs.google.com/spreadsheets/d/1pTkNDJN3jULvYsYP1NJbBqFgWp9oIJLT3H1eUe6KCU0/edit?usp=sharing)~~ __by 10 pm tonight (Friday, Oct 3)__. Teams should have between 6 to 7 members.
+ * The [handout for Phase1 of the project](Phase1Handout.md) is available.
+ * Your team repos have been created.
+ * The deadline has been changed to Mon, Oct 13, 10 am.
+ * Saad (your TA) will be available to meet with your team. I encourage you to contact him, and use his help. Specifically, I hope he can help you:
+   * Make realistic plans and estimations.
+   * Help you review and improve your object-oriented design.
+ 
 
-Notice: The first phase of the project is short, and will involve planning your project as a team (no coding). Therefore, we will not accept late registration.
- * If you don't register for a team on time, you will get a 0 for this phase.
- * If you register with anything other than your GitHub username, you will get a 0 for this phase.
- * If you register with the wrong GitHub username, you will get a 0 for this phase.
-
-
-In the meantime, you can see the different [project options](ProjectOptions.md).
 
 
 ## General Info ##
@@ -43,7 +42,7 @@ What | When | How Much
 --- | --- | ---
 [Mini-exercise](https://github.com/csc301-fall2014/mini-exercise/tree/utm-section)  | Fri, 19 Sep | 1%
 [Exercise](exercise1.md)       | ~~Wed, 1 Oct,~~ __Fri, Oct 3,__ at 10 pm | 9%
-Project Phase1 | Fri, 10 Oct | 8% 
+[Project Phase1](Phase1Handout.md) | ~~Fri, 10 Oct~~ __Mon, Oct 13, 10 am__ | 8% 
 Midterm        | Fri, 24 Oct | 10%
 Project Phase2 | Fri, 31 Oct | 12%
 Project Phase3 | Fri, 14 Nov | 10% 
