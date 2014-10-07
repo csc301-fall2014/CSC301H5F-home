@@ -67,6 +67,7 @@ Final Exam     | TBD         | 35%
    * [Software Development Life Cycle](https://docs.google.com/presentation/d/1cSps1xrdWnRCSvuDq5_3CST5HEc0k_nz4NkSsszThTs/edit?usp=sharing)
  * Week 3
    * [User-Centric Design](https://docs.google.com/presentation/d/17jIrffuu78dUq_fd4ukuH9L3xPvWo3TN2b28jYHhILA/edit?usp=sharing)
+   * [Tutorial on MVP](week3-tutorial.md)
  * Week 4
    * [Software Architecture & Design](https://docs.google.com/presentation/d/1djBbiUoo_68UH-mdd2EeJbXqAS5A5_3_G1WxnO6aAp8/edit?usp=sharing)
    * [DAO Example](https://github.com/csc301-fall2014/DAOExample)
