@@ -5,13 +5,7 @@ This page will contain general information and important announcements, please m
 
 ## Important Announcements
 
- * The [handout for Phase1 of the project](Phase1Handout.md) is available.
- * Your team repos have been created.
- * The deadline has been changed to Mon, Oct 13, 10 am.
- * Saad (your TA) will be available to meet with your team. I encourage you to contact him, and use his help. Specifically, I hope he can help you:
-   * Make realistic plans and estimations.
-   * Help you review and improve your object-oriented design.
- 
+The [handout for Phase2 of the project](Phase2Handout.md) is available.
 
 
 
@@ -44,7 +38,7 @@ What | When | How Much
 [Exercise](exercise1.md)       | ~~Wed, 1 Oct,~~ __Fri, Oct 3,__ at 10 pm | 9%
 [Project Phase1](Phase1Handout.md) | ~~Fri, 10 Oct~~ __Mon, Oct 13, 10 am__ | 8% 
 Midterm        | Fri, 24 Oct | 10%
-Project Phase2 | Fri, 31 Oct | 12%
+[Project Phase2](Phase2Handout.md) | Fri, 31 Oct, __9 pm__ | 12%
 Project Phase3 | Fri, 14 Nov | 10% 
 Project Phase4 | Fri, 28 Nov | 15% 
 Final Exam     | TBD         | 35%
