@@ -5,7 +5,8 @@ This page will contain general information and important announcements, please m
 
 ## Important Announcements
 
-The [handout for Phase2 of the project](Phase2Handout.md) is available.
+__IMPORTANT:__ The marking scheme for phase 2 has been updated.
+For more details, [see the post on the discussion board](https://piazza.com/class/hzrgo13n8hz71g?cid=141).
 
 
 
