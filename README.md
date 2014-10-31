@@ -40,7 +40,7 @@ What | When | How Much
 [Project Phase1](Phase1Handout.md) | ~~Fri, 10 Oct~~ __Mon, Oct 13, 10 am__ | 8% 
 Midterm        | Fri, 24 Oct | 10%
 [Project Phase2](Phase2Handout.md) | Fri, 31 Oct, __9 pm__ | 12%
-Project Phase3 | Fri, 14 Nov | 10% 
+[Project Phase3](Phase3Handout.md) | Fri, 14 Nov, __9 pm__ | 10% 
 Project Phase4 | Fri, 28 Nov | 15% 
 Final Exam     | TBD         | 35%
 
