@@ -81,4 +81,4 @@ Final Exam     | TBD         | 35%
  * Week 8
    * [Lecture Notes](https://docs.google.com/presentation/d/1d7qG3fuoUO9C38lTGSvs326AoG1Lww1AvTGART00fwc/edit?usp=sharing)
    * Going over the [midterm test](CSC301_Midterm_UTM.pdf).
-   * [Additional notes on SOLID](Week7-SOLID)
+   * [Additional notes on SOLID](Week7-SOLID.pdf)
