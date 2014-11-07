@@ -3,12 +3,6 @@
 This repo serves as the homepage for CSC301H5F (i.e. The UTM section).
 This page will contain general information and important announcements, please make sure to visit it regularly.
 
-# Important Announcements
-
-__IMPORTANT:__ The marking scheme for phase 2 has been updated.
-For more details, [see the post on the discussion board](https://piazza.com/class/hzrgo13n8hz71g?cid=141).
-
-
 
 ## General Info ##
 
@@ -82,3 +76,7 @@ Final Exam     | TBD         | 35%
    * [Lecture Notes](https://docs.google.com/presentation/d/1d7qG3fuoUO9C38lTGSvs326AoG1Lww1AvTGART00fwc/edit?usp=sharing)
    * Going over the [midterm test](CSC301_Midterm_UTM.pdf).
    * [Additional notes on SOLID](Week7-SOLID.pdf)
+ * Week 9
+   * [Lecture Notes](https://docs.google.com/presentation/d/1YSuixvtxc8csZCSFyUFwYlRHxw31DVi0t6coS4zrjB4/edit?usp=sharing)
+   * [Observer & Adapter Example](https://github.com/csc301-fall2014/ObserverAndAdapterExample)
+   * [MVC Example](https://github.com/csc301-fall2014/MVCExample)
