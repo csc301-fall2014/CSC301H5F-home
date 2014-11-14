@@ -80,3 +80,7 @@ Final Exam     | TBD         | 35%
    * [Lecture Notes](https://docs.google.com/presentation/d/1YSuixvtxc8csZCSFyUFwYlRHxw31DVi0t6coS4zrjB4/edit?usp=sharing)
    * [Observer & Adapter Example](https://github.com/csc301-fall2014/ObserverAndAdapterExample)
    * [MVC Example](https://github.com/csc301-fall2014/MVCExample)
+ * Week 10
+   * [Lecture Notes](https://docs.google.com/presentation/d/1abCtLfYyBh5BfTv81KgQQrT1eLYFNiFGkAN-79vxWoM/edit?usp=sharing)
+   * [Logging Library Example](https://github.com/csc301-fall2014/LoggingExample)
+   * [Notes on Modeling & UML](IntroModelling.pdf)
