@@ -30,12 +30,12 @@ This page will contain general information and important announcements, please m
 What | When | How Much
 --- | --- | ---
 [Mini-exercise](https://github.com/csc301-fall2014/mini-exercise/tree/utm-section)  | Fri, 19 Sep | 1%
-[Exercise](exercise1.md)       | ~~Wed, 1 Oct,~~ __Fri, Oct 3,__ at 10 pm | 9%
-[Project Phase1](Phase1Handout.md) | ~~Fri, 10 Oct~~ __Mon, Oct 13, 10 am__ | 8% 
+[Exercise](exercise1.md)       | Fri, Oct 3, at 10 pm | 9%
+[Project Phase1](Phase1Handout.md) | Mon, Oct 13, 10 am | 8% 
 Midterm        | Fri, 24 Oct | 10%
-[Project Phase2](Phase2Handout.md) | Fri, 31 Oct, __9 pm__ | 12%
-[Project Phase3](Phase3Handout.md) | Fri, 14 Nov, __9 pm__ | 10% 
-Project Phase4 | Fri, 28 Nov | 15% 
+[Project Phase2](Phase2Handout.md) | Fri, 31 Oct, 9 pm | 12%
+[Project Phase3](Phase3Handout.md) | Fri, 14 Nov, 9 pm | 10% 
+[Project Phase4](Phase4Handout.md) | Fri, 28 Nov, __9 pm__ | 15% 
 Final Exam     | TBD         | 35%
 
 *Note:* You must get at least 40% on the final exam in order to pass the course.
