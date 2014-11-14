@@ -84,3 +84,4 @@ Final Exam     | TBD         | 35%
    * [Lecture Notes](https://docs.google.com/presentation/d/1abCtLfYyBh5BfTv81KgQQrT1eLYFNiFGkAN-79vxWoM/edit?usp=sharing)
    * [Logging Library Example](https://github.com/csc301-fall2014/LoggingExample)
    * [Notes on Modeling & UML](IntroModelling.pdf)
+   * Summer Research Program - For more info see [Power Point Slides](https://drive.google.com/file/d/0B-oHUW7D4tCQcUxqVFRvc1VpbDU4VU53aXlEWTRSU2d1dUZR/view?usp=sharing) or [PDF](https://drive.google.com/file/d/0B-oHUW7D4tCQWU9aTmc3dnBqa0I0RjJNQ0ZZS2hYTFhqOGlv/view?usp=sharing)
