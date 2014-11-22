@@ -88,3 +88,4 @@ Final Exam     | TBD         | 35%
  * Week 11
    * [Dealing with grief and loss](https://drive.google.com/file/d/0B-oHUW7D4tCQQjQzX2JDS0NPQUkzWEM5WmFkR0VucnVjYm9F/view?usp=sharing)
    * [Notes & Exam Review](week11.md)
+   * Guest talk by Nahim Nasser & Mark Reale from [BNotion](http://bnotions.com).
