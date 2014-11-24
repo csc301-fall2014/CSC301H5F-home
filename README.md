@@ -3,6 +3,10 @@
 This repo serves as the homepage for CSC301H5F (i.e. The UTM section).
 This page will contain general information and important announcements, please make sure to visit it regularly.
 
+# IMPORTANT
+
+Please look at the [schedule for the final presentations](final-presentation-schedule.md).
+
 
 ## General Info ##
 
